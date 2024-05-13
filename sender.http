@@ -1,0 +1,8 @@
+POST http://localhost:5555/filmes
+Content-Type: application/json
+
+{
+    "titulo": "Novo filme",
+    "descricao": "Muito bom",
+    "duracao": 100
+}
